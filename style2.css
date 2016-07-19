@@ -1,0 +1,63 @@
+body			{background-color: lightblue;
+					border: 16px purple;
+					border-style: groove;
+					padding: 10px;
+					margin: 70px;
+}
+
+#left-col {color:blue;
+					margin-left:10px;
+					margin-right:15px;
+					padding:5px;
+					border:solid;
+					float:left;
+}
+#top-menu	{
+					margin:21px:
+					padding:20px;
+					background-color: lightgrey;
+}
+.top-menu-item {list-type-style:none;
+					display:inline;
+}
+
+//links for top-menu
+#menu-link	{width:25%;
+						padding:15px;
+}
+
+#ajax-test {
+						margin:15px;
+						padding:10px;
+						width:70%;
+						float:right;
+						border:solid;
+}
+
+.clearfix	{
+		list-style-type: none;
+    overflow: auto;
+}
+
+//----------links----------
+/* unvisited link */
+
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+//--------links----------
